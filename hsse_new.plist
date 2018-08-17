@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://218.58.78.125:20234/app/hsse.ipa</string>
+                   <string>http://nc.nrcc.com.cn:30123/app/hsse.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://218.58.78.125:20234/app/hsse.png</string>
+                   <string>http://nc.nrcc.com.cn:30123/app/hsse.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://218.58.78.125:20234/app/hsse.png</string>
+                   <string>http://nc.nrcc.com.cn:30123/app/hsse.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
